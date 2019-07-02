@@ -19,6 +19,7 @@ from sklearn.metrics import accuracy_score
 out = np.zeros((615,624,3))
 
 #image read
+
 red=plt.imread('/Users/bodhisattwa/Documents/Postgrads/MTP/worldview/b5.bmp')
 green=plt.imread('/Users/bodhisattwa/Documents/Postgrads/MTP/worldview/b3.bmp')
 blue=plt.imread('/Users/bodhisattwa/Documents/Postgrads/MTP/worldview/b2.bmp')
