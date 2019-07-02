@@ -64,7 +64,7 @@ area={}
 area=Counter(labels)
 area=dict(area)
 
-
+#can discard
 #perimeter
 peri=np.zeros_like(l)
 for (i,j),k in np.ndenumerate(labels_img):
